@@ -1,16 +1,19 @@
-# aadhar_app_sqllite
+# Aadhar Data Stroring App
 
-A new Flutter project.
+Aadhar App - Secure Aadhar Data Storage
 
-## Getting Started
+This Aadhar App is a Flutter-based mobile application designed to securely store and manage Aadhar details using SQLite. It ensures data privacy and integrity while providing an efficient way to access stored information.
 
-This project is a starting point for a Flutter application.
+Key Features:
+✅ Secure Aadhar Storage: Encrypts and stores Aadhar details locally using SQLite for offline access.
+✅ Efficient Data Management: Allows users to add, update, and delete Aadhar details seamlessly.
+✅ User-Friendly Interface: Built with Flutter for a smooth and intuitive user experience.
+✅ Data Security: Implements encryption techniques to safeguard sensitive user information.
+✅ Offline Access: Enables users to retrieve Aadhar details without an internet connection.
 
-A few resources to get you started if this is your first Flutter project:
+# Technologies Used:
+Flutter (UI & State Management)
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+SQLite (Local Database)
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Dart (Backend Logic)
